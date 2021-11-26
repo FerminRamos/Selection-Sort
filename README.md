@@ -1,4 +1,4 @@
-## Selection-Sort Description
+## Simple-Selection-Sort Description
 Just a simple program used as a reference for how to write a Selection Sort Algorithm.
 
 ## Key Takeaways of Selection Sort Algorithm
